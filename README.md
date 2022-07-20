@@ -1,23 +1,19 @@
 # DataScience
 Python for Data Science and Machine Learning 
 
-### Python:
-* Data types
-    * Numbers
-    * Strings
-    * Printing
-    * Lists
-    * Dictionaries
-    * Booleans
-    * Tuples 
-    * Sets
-* Comparison Operators
-* if, elif, else Statements
-* for Loops
-* while Loops
-* range()
-* list comprehension
-* functions
-* lambda expressions
-* map and filter
-* methods
+* Python for Data Science and Machine Learning
+* Spark for Big Data Analysis
+* Implement Machine Learning Algorithms
+* NumPy for Numerical Data
+* Pandas for Data Analysis
+* Matplotlib for Python Plotting
+* Learn to use Seaborn for statistical plots
+* Plotly for interactive dynamic visualizations
+* SciKit-Learn for Machine Learning Tasks
+* K-Means Clustering
+* Logistic Regression
+* Linear Regression
+* Random Forest and Decision Trees
+* Natural Language Processing and Spam Filters
+* Neural Networks
+* Support Vector Machines
